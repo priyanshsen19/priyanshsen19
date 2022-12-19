@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshsen19
+- 👋 Hi, I’m Priyansh Sen
 - 👀 I’m interested in Artificial Intelligence,Machine learning,Coding,programming languages like C++/C,Python,java,Html Css javascript,dart,kotlin n more.
 - 🌱 I’m currently Pursuing Bachelor of Technology in CSE at VITB'23
 - 💞️ I’m looking to collaborate on anything related to Computer Science and AI.
