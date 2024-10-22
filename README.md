@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Priyansh Sen
-- 👀 I’m interested in Artificial Intelligence,Machine learning,Coding,programming languages like C++/C, Python, ,MySQL, Java, Html, Css , Flutter, Kotlin n more.
-- 🌱 I’m currently Pursuing Bachelor of Technology in CSE at VITB'23
-- 💞️ I’m looking to collaborate on anything related to Computer Science and AI.
-- 📫 How to reach me EMAIL:priyanshsen21thjune@gmail.com
+- Ruby on Rails, Node, C/C++, Python, MySQL, Data structures and algorithms, Java, Machine learning, Git, DBMS, HTML, CSS, Android development, firebase, Data science, Computer networks, Operating systems
+- Software Developer - 1
+- Ping me at priyanshsen21thjune@gmail.com
 
 <!---
 priyanshsen19/priyanshsen19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
