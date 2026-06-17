@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyansh Sen
-- Software Developer - 2 at Pattern Technologies
+- Software Developer - 2 at CaratLane
 - Programming Languages: Ruby on Rails, Node.js (TypeScript), C/C++, Python, JavaScript, HTML, CSS
 - Frameworks: C++ STL, Flask, Rails, Next.js, Vue.js, Apollo GraphQL, Jest
 - Databases: MySQL, NoSQL (MongoDB, Firebase), AWS (RDS, DynamoDB, Cloudwatch, S3), IBM Cloud
