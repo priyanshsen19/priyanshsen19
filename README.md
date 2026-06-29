@@ -8,7 +8,7 @@
 - Concepts & Fundamentals: Data Structures & Algorithms, Object-Oriented Programming, System Design
 (HLD/LLD), Microservices Architecture
 - Soft Skills: Problem-Solving, Interdepartmental collaboration, Client-focused, Agile methodologies
-- Ping me at priyanshsen21thjune@gmail.com
+- Ping me at priyansh.sen2106@gmail.com
 - [Portfolio](https://priyansh-portfolio-phi.vercel.app)
 <!---
 priyanshsen19/priyanshsen19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
