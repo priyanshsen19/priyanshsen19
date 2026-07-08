@@ -40,7 +40,7 @@ Building software that scales, automates complex workflows, and delivers great u
   - RAG Systems
   - LLM Applications
   - Advanced Distributed Systems
-- ☕ If I drink coffee, it has to be **Sea Salt Caramel Latte** or **Strawberry Matcha**
+- ☕ If I drink coffee, it has to be **Sea Salt Caramel Latte** else I will settle for **Strawberry Matcha**
 - 🌎 I speak **3 languages**... and somehow have memorized cuss words from several more 😄
 
 ---
