@@ -19,7 +19,6 @@ Building software that scales, automates complex workflows, and delivers great u
 <p>
 <img src="https://komarev.com/ghpvc/?username=Priyanshsen19&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Priyanshsen19?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/followings/Priyanshsen19?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/stars/Priyanshsen19?style=for-the-badge&logo=github" />
 </p>
 
