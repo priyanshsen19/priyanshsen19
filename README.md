@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-# Hi there, I'm Priyansh Sen 👋
+# Hi there, I'm Priyansh Sen
 
 ### Full Stack Engineer • AI Enthusiast • Distributed Systems Enthusiast
 
