@@ -1,0 +1,49 @@
+name: Refresh streak card
+
+on:
+  schedule:
+    # 02:17 UTC daily (~07:47 IST)
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch streak SVG
+        run: |
+          mkdir -p assets
+          url="https://streak-stats.demolab.com/?user=Priyanshsen19&theme=tokyonight&hide_border=true"
+          for i in $(seq 1 10); do
+            if curl -fsS --max-time 60 "$url" -o streak.new; then
+              # Guard against the service returning an error page with a 200
+              if grep -qi '<svg' streak.new; then
+                mv streak.new assets/streak.svg
+                echo "fetched on attempt $i"
+                exit 0
+              fi
+              echo "attempt $i: response was not an SVG"
+            else
+              echo "attempt $i: request failed"
+            fi
+            sleep 15
+          done
+          echo "all attempts failed; keeping the existing card"
+          exit 1
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "Refresh streak card"
+            git push
+          fi
