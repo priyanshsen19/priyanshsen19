@@ -103,9 +103,7 @@ Building software that scales, automates complex workflows, and delivers great u
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshsen19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshsen19&layout=compact&theme=tokyonight&hide_border=true"/>
+![Followers](https://img.shields.io/github/followers/Priyanshsen19?style=for-the-badge&logo=github&color=1a1b27&labelColor=1a1b27)
 
 <img width="95%" src="https://streak-stats.demolab.com/?user=Priyanshsen19&theme=tokyonight&hide_border=true"/>
 
