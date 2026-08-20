@@ -103,11 +103,11 @@ Building software that scales, automates complex workflows, and delivers great u
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshsen19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshsen19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshsen19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshsen19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshsen19&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=Priyanshsen19&theme=tokyonight&hide_border=true"/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshsen19&theme=tokyo-night&hide_border=true"/>
 
