@@ -31,7 +31,7 @@ Building software that scales, automates complex workflows, and delivers great u
 - 💼 Software Development Engineer II
 - 🌍 Building scalable backend systems, distributed architectures and AI-powered products
 - 🔥 Passionate about **System Design, Distributed Systems, High Performance APIs & AI**
-- 🤖 Currently building an **AI Interview Prep App**
+- 🤖 Currently building an **AI Interview Prep App** Demo Video -> https://bit.ly/4xbppKl
 - 🏗️ Love architecting production-ready systems using microservices, event-driven architecture and cloud technologies
 - ⚡ Always optimizing databases, APIs and system performance
 - 📚 Currently exploring:
