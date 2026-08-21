@@ -102,9 +102,7 @@ Building software that scales, automates complex workflows, and delivers great u
 # 📈 GitHub Analytics
 
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/Priyanshsen19?style=for-the-badge&logo=github&color=1a1b27&labelColor=1a1b27)
-
+  
 <img width="95%" src="./assets/streak.svg" alt="GitHub streak"/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshsen19&theme=tokyo-night&hide_border=true"/>
