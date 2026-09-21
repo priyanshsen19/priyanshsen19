@@ -31,7 +31,7 @@ Building software that scales, automates complex workflows, and delivers great u
 - 💼 Software Development Engineer II
 - 🌍 Building scalable backend systems, distributed architectures and AI-powered products
 - 🔥 Passionate about **System Design, Distributed Systems, High Performance APIs & AI**
-- 🤖 Currently building an **AI Interview Prep App**, Check Progress here -> [https://bit.ly/4xbppKl](https://lastminprep-ai.vercel.app)
+- 🤖 Currently building an **AI Interview Prep App**, Check Progress here -> https://lastminprep-ai.vercel.app
 - 🎮 Build a game out of boredom -> https://flight-simulator-ashy.vercel.app
 - 🏗️ Love architecting production-ready systems using microservices, event-driven architecture and cloud technologies
 - Built an Ingestion Website for Peeps interested in Govt Jobs, check it out here -> https://govtjobs-ai.vercel.app
