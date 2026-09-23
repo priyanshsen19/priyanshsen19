@@ -107,8 +107,6 @@ Building software that scales, automates complex workflows, and delivers great u
   
 <img width="95%" src="https://streak-stats.demolab.com/?user=Priyanshsen19&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?user=Priyanshsen19&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
