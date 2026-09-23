@@ -132,8 +132,8 @@ Building software that scales, automates complex workflows, and delivers great u
 ▸ LLM Applications
 ▸ Distributed Systems
 ▸ Backend Performance
+▸ AI-Powered Applications
 ▸ System Design
-▸ AI Personal Fashion Designer
 ```
 
 ---
